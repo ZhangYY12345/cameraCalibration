@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\method">
+      <UniqueIdentifier>{52c45d09-2403-4bf8-b454-d29525772b28}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\disp_methods">
+      <UniqueIdentifier>{47fe35b6-8596-489b-a403-ce723c2670b4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="methods\method_pcl_filters.h">
+      <Filter>源文件\method</Filter>
+    </ClInclude>
+    <ClInclude Include="methods\method_StereoMatching.h">
+      <Filter>源文件\method</Filter>
+    </ClInclude>
+    <ClInclude Include="methods\methods.h">
+      <Filter>源文件\method</Filter>
+    </ClInclude>
+    <ClInclude Include="methods\parametersStereo.h">
+      <Filter>源文件\method</Filter>
+    </ClInclude>
+    <ClInclude Include="methods\patchmatch.h">
+      <Filter>源文件\method</Filter>
+    </ClInclude>
+    <ClInclude Include="methods\method_pcl_keypoint.h">
+      <Filter>源文件\method</Filter>
+    </ClInclude>
+    <ClInclude Include="methods\method_pcl_consensusEsti.h">
+      <Filter>源文件\method</Filter>
+    </ClInclude>
+    <ClInclude Include="methods\method_pcl_register.h">
+      <Filter>源文件\method</Filter>
+    </ClInclude>
+    <ClInclude Include="tempAdd.hpp">
+      <Filter>源文件\method</Filter>
+    </ClInclude>
+    <ClInclude Include="disp_method\featureCost.h">
+      <Filter>源文件\disp_methods</Filter>
+    </ClInclude>
+    <ClInclude Include="disp_method\gifs.h">
+      <Filter>源文件\disp_methods</Filter>
+    </ClInclude>
+    <ClInclude Include="disp_method\nonfree.hpp">
+      <Filter>源文件\disp_methods</Filter>
+    </ClInclude>
+    <ClInclude Include="disp_method\steerFilter.h">
+      <Filter>源文件\disp_methods</Filter>
+    </ClInclude>
+    <ClInclude Include="disp_method\surf.hpp">
+      <Filter>源文件\disp_methods</Filter>
+    </ClInclude>
+    <ClInclude Include="disp_method\methods_disp.h">
+      <Filter>源文件\disp_methods</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="cameraCalibration.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="methods\method_StereoMatching.cpp">
+      <Filter>源文件\method</Filter>
+    </ClCompile>
+    <ClCompile Include="methods\methods.cpp">
+      <Filter>源文件\method</Filter>
+    </ClCompile>
+    <ClCompile Include="methods\parametersStereo.cpp">
+      <Filter>源文件\method</Filter>
+    </ClCompile>
+    <ClCompile Include="methods\patchmatch.cpp">
+      <Filter>源文件\method</Filter>
+    </ClCompile>
+    <ClCompile Include="methods\method_pcl_filters.cpp">
+      <Filter>源文件\method</Filter>
+    </ClCompile>
+    <ClCompile Include="methods\method_pcl_keypoint.cpp">
+      <Filter>源文件\method</Filter>
+    </ClCompile>
+    <ClCompile Include="methods\method_pcl_consensusEsti.cpp">
+      <Filter>源文件\method</Filter>
+    </ClCompile>
+    <ClCompile Include="methods\method_pcl_register.cpp">
+      <Filter>源文件\method</Filter>
+    </ClCompile>
+    <ClCompile Include="disp_method\featureCost.cpp">
+      <Filter>源文件\disp_methods</Filter>
+    </ClCompile>
+    <ClCompile Include="disp_method\gifs.cpp">
+      <Filter>源文件\disp_methods</Filter>
+    </ClCompile>
+    <ClCompile Include="disp_method\sift.cpp">
+      <Filter>源文件\disp_methods</Filter>
+    </ClCompile>
+    <ClCompile Include="disp_method\steerFilter.cpp">
+      <Filter>源文件\disp_methods</Filter>
+    </ClCompile>
+    <ClCompile Include="disp_method\surf.cpp">
+      <Filter>源文件\disp_methods</Filter>
+    </ClCompile>
+    <ClCompile Include="disp_method\methods_disp.cpp">
+      <Filter>源文件\disp_methods</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

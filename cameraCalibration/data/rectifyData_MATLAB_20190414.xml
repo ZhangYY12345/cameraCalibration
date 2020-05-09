@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opencv_storage>
+   <ImgSize type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>3</cols>
+      <dt>f</dt>
+      <data>1080.000000 1920.000000 3.000000 </data>
+   </ImgSize>
+   <Left_CameraInnerPara type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>f</dt>
+      <data>1505.688555 0.000000 972.240933 0.000000 1505.246756 580.021443 0.000000 0.000000 1.000000 </data>
+   </Left_CameraInnerPara>
+   <Left_CameraDistPara type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>3</cols>
+      <dt>f</dt>
+      <data>-0.425219 -0.680973 4.608810 </data>
+   </Left_CameraDistPara>
+   <Right_CameraInnerPara type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>f</dt>
+      <data>1505.098465 0.000000 983.314476 0.000000 1503.645843 574.956792 0.000000 0.000000 1.000000 </data>
+   </Right_CameraInnerPara>
+   <Right_CameraDistPara type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>3</cols>
+      <dt>f</dt>
+      <data>-0.398997 -1.180711 7.318407 </data>
+   </Right_CameraDistPara>
+   <R2L_Rotation_Matrix type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>f</dt>
+      <data>0.999153 0.004908 0.040846 -0.005931 0.999671 0.024968 -0.040710 -0.025189 0.998853 </data>
+   </R2L_Rotation_Matrix>
+   <R2L_Translate_Matrix type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>3</cols>
+      <dt>f</dt>
+      <data>-121.533469 4.361928 2.108271 </data>
+   </R2L_Translate_Matrix>
+   <FundationMat type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>f</dt>
+      <data>-0.000000 -0.000001 -0.001623 -0.000001 -0.000001 -0.078990 0.003498 0.082792 -5.082181 </data>
+   </FundationMat>
+   <EssentialMat type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>f</dt>
+      <data>-0.165070 -2.841119 -3.637444 -2.217450 -3.050975 -121.514849 4.304288 121.480239 -3.212616 </data>
+   </EssentialMat>
+</opencv_storage>

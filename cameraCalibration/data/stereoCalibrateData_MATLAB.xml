@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<opencv_storage>
+   <ImgSize>
+1440 2560</ImgSize>
+   <cameraLeft_IntrisicParam type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>1794.519618 0.000000 2451.246230 0.000000 1923.193835 822.886337 0.000000 0.000000 1.000000 </data>
+   </cameraLeft_IntrisicParam>
+   <cameraLeft_DistParam type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>5</cols>
+      <dt>d</dt>
+      <data>0.072382 -0.352010 0.000000 0.000000 0.178331 </data>
+   </cameraLeft_DistParam>
+   <cameraRight_IntrisicParam type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>2447.470946 0.000000 1623.155842 0.000000 2364.155056 746.838770 0.000000 0.000000 1.000000 </data>
+   </cameraRight_IntrisicParam>
+   <cameraRight_DistParam type_id="opencv-matrix">
+      <rows>1</rows>
+      <cols>5</cols>
+      <dt>d</dt>
+      <data>-0.140915 -1.206804 0.000000 0.000000 1.880327 </data>
+   </cameraRight_DistParam>
+   <cameraRotationR2L type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>0.897251 -0.000468 0.441521 -0.009871 0.999728 0.021120 -0.441411 -0.023308 0.897002 </data>
+   </cameraRotationR2L>
+   <cameraTranslationR2L type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>1</cols>
+      <dt>d</dt>
+      <data>-278.229649 0.950278 59.607894 </data>
+   </cameraTranslationR2L>
+   <essentialMatrix type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>d</dt>
+      <data>0.168938 -69.330456 1.893824 -59.613843 -6.512889 -278.153588 -0.406502 275.890756 -6.295708 </data>
+   </essentialMatrix>
+   <fundamentalMatrix type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>f</dt>
+      <data>0.000000 -0.000016 0.013198 -0.000013 -0.000001 -0.123004 0.010162 0.157934 -24.312548 </data>
+   </fundamentalMatrix>
+</opencv_storage>
